@@ -1,0 +1,10 @@
+C:\Users\Matjaz\Documents\FERI 2 Letnik\2. Semester\Algoritmi\Binarne datoteke\BinarneDatoteke\BinarneDatoteke\bin\Debug\BinarneDatoteke.exe
+C:\Users\Matjaz\Documents\FERI 2 Letnik\2. Semester\Algoritmi\Binarne datoteke\BinarneDatoteke\BinarneDatoteke\bin\Debug\BinarneDatoteke.pdb
+C:\Users\Matjaz\Documents\FERI 2 Letnik\2. Semester\Algoritmi\Binarne datoteke\BinarneDatoteke\BinarneDatoteke\obj\Debug\BinarneDatoteke.csprojResolveAssemblyReference.cache
+C:\Users\Matjaz\Documents\FERI 2 Letnik\2. Semester\Algoritmi\Binarne datoteke\BinarneDatoteke\BinarneDatoteke\obj\Debug\BinarneDatoteke.exe
+C:\Users\Matjaz\Documents\FERI 2 Letnik\2. Semester\Algoritmi\Binarne datoteke\BinarneDatoteke\BinarneDatoteke\obj\Debug\BinarneDatoteke.pdb
+C:\Users\bostj\Desktop\Binarne-datoteke\Binarne datoteke\BinarneDatoteke\BinarneDatoteke\obj\Debug\BinarneDatoteke.exe
+C:\Users\bostj\Desktop\Binarne-datoteke\Binarne datoteke\BinarneDatoteke\BinarneDatoteke\obj\Debug\BinarneDatoteke.pdb
+C:\Users\bostj\Desktop\Binarne-datoteke\Binarne datoteke\BinarneDatoteke\BinarneDatoteke\bin\Debug\BinarneDatoteke.exe
+C:\Users\bostj\Desktop\Binarne-datoteke\Binarne datoteke\BinarneDatoteke\BinarneDatoteke\bin\Debug\BinarneDatoteke.pdb
+C:\Users\bostj\Desktop\Binarne-datoteke\Binarne datoteke\BinarneDatoteke\BinarneDatoteke\obj\Debug\BinarneDatoteke.csprojResolveAssemblyReference.cache
